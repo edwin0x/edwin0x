@@ -24,15 +24,6 @@ I'm a software developer passionate about crafting clean, efficient solutions an
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwin0x&show_icons=true&theme=minimal" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwin0x&theme=minimal" alt="GitHub Streak" />
-</p>
 
 ## 🌟 Featured Projects
 
