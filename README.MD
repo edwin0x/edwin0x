@@ -1,4 +1,4 @@
-# Hello, I'm Edwin Manual 👋
+# Hello World 👋
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-website.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwinmanual)
@@ -27,39 +27,28 @@ I'm a software developer passionate about crafting clean, efficient solutions an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwinmanual&show_icons=true&theme=minimal" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edwin0x&show_icons=true&theme=minimal" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinmanual&theme=minimal" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwin0x&theme=minimal" alt="GitHub Streak" />
 </p>
 
 ## 🌟 Featured Projects
 
-### Project Atlas
+### Saege AI
 Real-time data visualization platform built with React and D3.js
-- [Repository](https://github.com/edwinmanual/atlas)
-- [Live Demo](https://atlas-demo.com)
 
-### CloudSync
-Cloud-based file synchronization service with end-to-end encryption
-- [Repository](https://github.com/edwinmanual/cloudsync)
-- [Live Demo](https://cloudsync-demo.com)
+- [Link](https://saege.ai)
 
-### EcoTracker
-Mobile app for tracking personal carbon footprint
-- [Repository](https://github.com/edwinmanual/ecotracker)
-- [Live Demo](https://ecotracker-demo.com)
+### OSSAlternatives.to
+Discover self-hostable alternative for popular proprietary SaaS solutions
+- [Link](https://ossalternatives.to)
+
 
 ## 📫 Get in Touch
 
-- Personal Website: [your-website.com](https://your-website.com)
-- Email: edwin.manual@example.com
-- LinkedIn: [linkedin.com/in/edwinmanual](https://linkedin.com/in/edwinmanual)
+- Personal Website: [your-website.com](https://edwin0x.com)
+- Email: edwin0x@gmail.com
+- LinkedIn: [linkedin.com/in/edwinmanual](https://linkedin.com/in/edwin-manual)
 - Twitter: [@edwinmanual](https://twitter.com/edwinmanual)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edwinmanual&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
